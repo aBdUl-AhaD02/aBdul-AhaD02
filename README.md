@@ -21,28 +21,28 @@ I'm a **Cybersecurity Professional** passionate about threat detection, security
 
 ## 🔐 Featured Projects
 
-### 🛡️ [Network Intrusion Detection System](link-to-repo)
+### 🛡️ [Network Intrusion Detection System](https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System)
 **Snort 3.10.0.0 | Linux | PCAP Analysis**
 
 Built and configured a comprehensive IDS with 4,875 detection rules to monitor network traffic. Created custom signatures to detect exploitation attempts, shellcode injection, ARP spoofing, and various attack patterns. Analyzed PCAP files to extract indicators of compromise and optimized rules for improved detection accuracy.
 
 ---
 
-### 🔒 [Web Application Security Lab](link-to-repo)
+### 🔒 [Web Application Security Lab](https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab)
 **SafeLine WAF | Docker | Python**
 
 Deployed a containerized security testing environment with Web Application Firewall protection. Performed penetration testing including XSS and SQL injection attacks, analyzed WAF logs, and created custom firewall rules to defend against common web vulnerabilities.
 
 ---
 
-### 🧠 [Forgery Detection Using Deep Learning](link-to-repo)
+### 🧠 [Forgery Detection Using Deep Learning](https://github.com/aBdUl-AhaD02/Forgery-Detection-Using-Deep-Learning)
 **Python | CNN | ResNet | VGG16**
 
 Developed an AI-powered web application to detect forged images and signatures using deep learning models. Implemented CNN architectures (ResNet, VGG16) and computer vision algorithms (SIFT, ORB) to identify image tampering and signature forgery attempts.
 
 ---
 
-### 📊 [Wazuh SIEM Implementation & Security Monitoring](link-to-repo)
+### 📊 [Wazuh SIEM Implementation & Security Monitoring](https://github.com/aBdUl-AhaD02/Wazuh-SIEM-Implementation-Security-Monitoring)
 **Wazuh | Ubuntu | File Integrity Monitoring**
 
 Deployed enterprise-grade SIEM platform for centralized security monitoring. Configured File Integrity Monitoring, vulnerability detection (2,503+ vulnerabilities identified), and custom detection rules. Analyzed 5,696+ security events and gained hands-on experience with incident response workflows.
