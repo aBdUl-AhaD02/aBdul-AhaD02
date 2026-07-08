@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Abdul Ahad
-
 ## 🛡️ SOC Analyst | Threat Detection | Incident Response
 
 I'm a **Cybersecurity Professional** passionate about threat detection, security monitoring, and incident response. With hands-on experience in SIEM platforms, intrusion detection systems, and security operations, I build practical solutions to identify and defend against cyber threats.
