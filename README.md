@@ -6,14 +6,14 @@ I'm a **Cybersecurity Professional** passionate about threat detection, security
 ## 💼 Experience
 
 ### SOC Analyst — SOC Experts
-*February 2025 – April 2025 · Bengaluru, Karnataka, India*
+*February 2025 – July 2025 · Bengaluru, Karnataka, India*
 - Deep-dive analysis of triggered alerts using SIEM, SOAR, and other analysis tools
 - Acknowledged and closed false positives; raised tickets for valid incidents
 - Monitored and troubleshot silent log sources
 - Maintained and improved SOC playbooks and processes
 
 ### Network Intern — Cisco Networking Academy
-*October 2023 – March 2024 · Bengaluru, Karnataka, India*
+*June 2024 – December 2025 · Bengaluru, Karnataka, India*
 - Configured switches and end devices for local and remote network resource access
 - Troubleshot connectivity issues in small network environments
 - Configured networks following security best practices
